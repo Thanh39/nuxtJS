@@ -1,0 +1,2 @@
+yarn nuxt dev
+create-nuxt-app
